@@ -7,4 +7,4 @@ from the command prompt clone the project
 - \$yarn install
 - \$yarn start
 
-Guide: Techsith tutorial on Youtube on Saga..
+Guide: Techsith tutorial on Youtube on Saga.....
