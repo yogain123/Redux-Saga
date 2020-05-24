@@ -13,6 +13,7 @@ const reducer = (state = initialState, action) => {
     case "AGE_DOWN_ASYNC":
       newState.age -= 1;
       break;
+    default:
   }
   return newState;
 };
